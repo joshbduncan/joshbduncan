@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh!
 - 👀 I’m interested in design, programming, automation, and photography
-- 🌱 I’m currently learning Python, Javascript, and Adobe Extendscript
-- 💞️ I’m looking to collaborate on cool Python projects and extending Adobe applications
+- 🌱 I’m currently learning Python, Javascript, Adobe Extendscript, and Adobe UXP Plugin development
+- 💞️ I’m looking to collaborate on cool Python projects or scripting helpful features for Adobe applications
 - 📫 Reach me @joshbduncan errwhere ✌️
 
 <!---
